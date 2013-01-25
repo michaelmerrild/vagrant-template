@@ -1,0 +1,10 @@
+site "http://community.opscode.com/api/v1"
+
+cookbook "apt"
+cookbook "apache2"
+cookbook "openssl"
+cookbook "mysql"
+cookbook "php"
+
+cookbook 'chef-lamp',
+	:git => 'git://github.com/michaelmerrild/chef-lamp.git'
