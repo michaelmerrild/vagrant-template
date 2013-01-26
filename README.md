@@ -3,6 +3,12 @@ vagrant-template
 
 Basic Vagrant template for LAMP projects.
 
+### Download
+
+Clone the repo, or download archive using:
+
+    curl -L http://git.io/x1j1Dw | tar zx
+
 ### Installation
 
 Requires [Vagrant](http://www.vagrantup.com) and [Librarian-Chef](https://github.com/applicationsonline/librarian).
